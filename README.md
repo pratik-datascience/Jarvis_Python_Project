@@ -33,8 +33,9 @@
 
 
 ##  How to Run
-  1. Clone the repository
-  git clonegit clone https://github.com/pratik-datascience/Jarvis_Python_Project.git
+  
+1. Clone the repository
+git clonegit clone https://github.com/pratik-datascience/Jarvis_Python_Project.git
 
 
   2.Create virtual environment
