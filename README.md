@@ -31,7 +31,8 @@ This project was created while learning Python from **CodeWithHarry YouTube chan
 
 ##  How to Run
 1. Clone the repository
-  git clone https://github.com/Jarvis_Python_Project/jarvis-ai-python.git
+  git clonegit clone https://github.com/pratik-datascience/Jarvis_Python_Project.git
+
 
 2.Create virtual environment
   python -m venv .venv
