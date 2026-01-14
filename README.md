@@ -21,10 +21,10 @@ This project was created while learning Python from **CodeWithHarry YouTube chan
 - OS module
 
 ##  Project Structure
-├── client.py # Voice input handling
-├── main1.py # Main execution file
-├── musicLibrary.py # Music control logic
-├── Practice.py # Testing and practice code
+  ├── client.py # Voice input handling
+  ├── main1.py # Main execution file
+  ├── musicLibrary.py # Music control logic
+  ├── Practice.py # Testing and practice code
 
 
 
