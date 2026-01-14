@@ -35,20 +35,19 @@
 ##  How to Run
 
   1. Clone the repository
-  git clonegit clone https://github.com/pratik-datascience/Jarvis_Python_Project.git
-
+    git clonegit clone https://github.com/pratik-datascience/Jarvis_Python_Project.git
 
   2.Create virtual environment
-  python -m venv .venv
+    python -m venv .venv
 
   3.Activate environment
-  .venv\Scripts\activate
+    .venv\Scripts\activate
 
   4.Install required libraries
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
   5.Run Jarvis
-  python main1.py
+    python main1.py
 
 ## Learning Source
 
